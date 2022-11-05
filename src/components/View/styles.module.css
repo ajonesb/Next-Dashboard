@@ -1,0 +1,19 @@
+.view {
+  margin: 180px auto 0px;
+  text-align: center;
+}
+
+.header {
+  font: 12px "Roboto", sans-serif;
+  width: 100%;
+  letter-spacing: 2.5px;
+  margin: 0 auto;
+  z-index: 100;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.9) none;
+  background-attachment: fixed !important;
+  background-position: center;
+  padding: 15px 0px;
+}
