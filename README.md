@@ -66,3 +66,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo
 https://next-dashboard-peach.vercel.app/intro
+
+![image](https://user-images.githubusercontent.com/17410649/200342381-9b2c1bf9-145b-4f86-ba47-8176d6d062f7.png)
