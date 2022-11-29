@@ -1,14 +1,7 @@
-## Sr. Software Engineer VoyceMe Take-Home Test
 
-Thank you for your interest in VoyceMe. We are excited to welcome you to the take-home test portion of the process.
+## Admin Portal - React 
 
-## TECHNICAL ASSESSMENT: HOW WOULD YOU DESIGN VOYCE.ME?
-
-## Assumptions
-
-## Assume that Voyce.me has the 2 features listed below
-
-- Admin Portal - Developed with React (Next js) and Charts.js for data interactivity
+- Developed with React (Next js) and Charts.js for data interactivity
   `https://www.chartjs.org/`
 
 - Coin System
@@ -17,7 +10,7 @@ Thank you for your interest in VoyceMe. We are excited to welcome you to the tak
 ## High-Level System Design
 
 - Include all components - The architecture is designed with reusable components.
-- Consider scalability and potential third-party API Intergrations - The application is ready to scale with adding additional pages to the dashboard as well as reusing the
+- Considering scalability and potential third-party API Intergrations - The application is ready to scale with adding additional pages to the dashboard as well as reusing the
   components available such as Header, LeftNavBar, Layout, View.
 
 ## Admin Portal
